@@ -1,4 +1,4 @@
-# Fuel-inventory-optimization
+# Fuel-Inventory-Optimization
 
 ## Project Overview
 Python-based replenishment model analyzing 1+ year of tank-level data across 8 locations to optimize fuel inventory management, prevent stockouts, and reduce excess inventory costs.
