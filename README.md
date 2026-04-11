@@ -17,5 +17,3 @@ Python-based replenishment model analyzing 1+ year of tank-level data across 8 l
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Techniques:** Inventory Optimization, Demand Forecasting, Replenishment Modeling
-
-## 📁 Project Structure
